@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7uXWod28MM6zouJNekjhea5FwPZziP6EO0YL2AGcws7sBhz9dwmI0UnsBQcLtcIeIwcnxCcCw4NYEWVs5p4uyg==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\leetcode\\1480 leet\\1480 leet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+E:\Code\leetcode\1480 leet\obj\Debug\netcoreapp3.1\1480 leet.csprojAssemblyReference.cache
+E:\Code\leetcode\1480 leet\obj\Debug\netcoreapp3.1\1480 leet.AssemblyInfoInputs.cache
+E:\Code\leetcode\1480 leet\obj\Debug\netcoreapp3.1\1480 leet.AssemblyInfo.cs
+E:\Code\leetcode\1480 leet\obj\Debug\netcoreapp3.1\1480 leet.csproj.CoreCompileInputs.cache
