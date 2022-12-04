@@ -1,0 +1,13 @@
+E:\Code\leetcode\202 leet\bin\Debug\netcoreapp3.1\202 leet.exe
+E:\Code\leetcode\202 leet\bin\Debug\netcoreapp3.1\202 leet.deps.json
+E:\Code\leetcode\202 leet\bin\Debug\netcoreapp3.1\202 leet.runtimeconfig.json
+E:\Code\leetcode\202 leet\bin\Debug\netcoreapp3.1\202 leet.runtimeconfig.dev.json
+E:\Code\leetcode\202 leet\bin\Debug\netcoreapp3.1\202 leet.dll
+E:\Code\leetcode\202 leet\bin\Debug\netcoreapp3.1\202 leet.pdb
+E:\Code\leetcode\202 leet\obj\Debug\netcoreapp3.1\202 leet.csprojAssemblyReference.cache
+E:\Code\leetcode\202 leet\obj\Debug\netcoreapp3.1\202 leet.AssemblyInfoInputs.cache
+E:\Code\leetcode\202 leet\obj\Debug\netcoreapp3.1\202 leet.AssemblyInfo.cs
+E:\Code\leetcode\202 leet\obj\Debug\netcoreapp3.1\202 leet.csproj.CoreCompileInputs.cache
+E:\Code\leetcode\202 leet\obj\Debug\netcoreapp3.1\202 leet.dll
+E:\Code\leetcode\202 leet\obj\Debug\netcoreapp3.1\202 leet.pdb
+E:\Code\leetcode\202 leet\obj\Debug\netcoreapp3.1\202 leet.genruntimeconfig.cache
