@@ -1,27 +1,32 @@
-﻿using System;
-public class HappyNumber
+﻿public class Solution
 {
-    public static int happynum(int num)//happy number function
+    public bool IsHappy(int n)
     {
-        int rem = 0, sum = 0;   
-        while (num > 0){//Calculate the sum of squares of digits 
-            rem = num % 10;
-            sum = sum + (rem * rem);
-            num = num / 10;
+        HashSet<int> setN = new HashSet<int>() { 0, 1 };
+        while (!setN.Contains(n))
+        {
+            setN.Add(n);
+            n = GetNextHappyNumber(n);
         }
-        return sum;
-    }
-    public static void Main(){
-        int n = Convert.ToInt16(Console.ReadLine());//input
-        int r = n;
-        while (r != 1 && r != 4){//codition for happy number function
-            r = happynum(r);
-        }   
-        if (r == 1)//happy ends with 1
-            Console.WriteLine("true");  
 
-        else if (r == 4)//unhappy ends with 4
-            Console.WriteLine("false");
-        Console.ReadLine();
+        if (n == 1)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
+    }
+    public int GetNextHappyNumber(int n)
+    {
+        int rep = 0;
+        while (n > 0)
+        {
+            rep += ((n % 10) * (n % 10));
+            n = n / 10;
+        }
+        return rep;
     }
 }
